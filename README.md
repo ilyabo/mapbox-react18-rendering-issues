@@ -1,5 +1,5 @@
-# Deck.gl React 18 rendering issue
+# Mapbox React 18 rendering issue
 
-- Flicker
-- Basemap is not always in sync when zooming in/out quickly 
+The viewport sync between Mapbox and a React/SVG overlay is slightly lagging
+
 
