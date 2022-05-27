@@ -1,8 +1,8 @@
 {
-  "name": "deckgl-react18-rendering-issues",
+  "name": "mapbox-react18-rendering-issues",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ilyabo.github.io/deckgl-react18-rendering-issues/",
+  "homepage": "https://ilyabo.github.io/mapbox-react18-rendering-issues/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
